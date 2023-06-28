@@ -1885,4 +1885,8 @@ figure {
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
 
+.col-md-4{
+  text-align: center;
+  align-items: center;
+}
 /*# sourceMappingURL=style.css.map */
