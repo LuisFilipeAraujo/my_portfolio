@@ -1890,3 +1890,7 @@ figure {
   align-items: center;
 }
 /*# sourceMappingURL=style.css.map */
+.child{
+  display: flex;
+  justify-content: center;
+}
